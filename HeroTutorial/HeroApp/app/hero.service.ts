@@ -1,4 +1,8 @@
-import {Injectable} from 'angular2/core';
+/// <reference path="../node_modules/angular2/typings/es6-shim/es6-shim.d.ts" />
+/// <reference path="../node_modules/angular2/typings/zone/zone.d.ts" />
+/// <reference path="../node_modules/angular2/manual_typings/globals-es6.d.ts" />
+
+import {Injectable} from '../node_modules/angular2/core';
 import {HEROES} from './mock-heroes';
 
 @Injectable()
