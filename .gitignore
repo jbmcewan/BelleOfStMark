@@ -6,3 +6,6 @@
 /HeroApp/node_modules/
 /HeroTutorial/HeroApp/node_modules
 /HeroTutorial/HeroApp/typings
+/HeroTutorial/.vs
+/HeroTutorial/HeroApp/bin
+/HeroTutorial/HeroApp/HeroApp.csproj.user
